@@ -1,0 +1,60 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-quicksand: Quicksand;
+  --font-poppins: Poppins;
+  --font-josefin-sans: "Josefin Sans";
+
+  /* font sizes */
+  --font-size-6xl: 25px;
+  --font-size-27xl: 46px;
+  --font-size-15xl: 34px;
+  --font-size-base: 16px;
+  --font-size-lg: 18px;
+  --font-size-3xl: 22px;
+  --font-size-xl: 20px;
+  --font-size-13xl: 32px;
+  --font-size-23xl: 42px;
+  --font-size-481xl: 500px;
+  --font-size-17xl: 36px;
+  --font-size-5xl: 24px;
+  --font-size-59xl: 78px;
+  --font-size-77xl: 96px;
+  --font-size-smi: 13px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-gray-100: #777;
+  --color-gray-200: #272042;
+  --color-linen: #f4ece1;
+  --color-darkslategray: #2f2f2f;
+  --color-lightslategray: #8b8ba5;
+  --color-whitesmoke-200: #faf9f9;
+  --color-whitesmoke-300: #f1f1f1;
+  --color-whitesmoke-100: #ececec;
+  --color-darkorange: #f48f1d;
+  --color-goldenrod: #f7c531;
+  --color-black: #000;
+
+  /* border radiuses */
+  --br-65xl: 84px;
+  --br-8xs: 5px;
+  --br-11xl: 30px;
+  --br-81xl: 100px;
+  --br-155xl-5: 174.5px;
+  --br-127xl-5: 146.5px;
+  --br-31xl: 50px;
+  --br-xl: 20px;
+}
+.mask-group-icon {
+  position: absolute;
+  top: 0;
+  left: 1105px;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
